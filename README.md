@@ -21,25 +21,25 @@ This project compares the performance of different methods to find the minimum v
 
 1. **Clone the project files**:
     ```bash
-    git clone https://github.com/username/project-name.git
-    cd project-name
+    git clone https://github.com/FihriSina/Range-Minimum-Queries-RMQ-.git
+    cd Range-Minimum-Queries-RMQ-
     ```
 
 2. **Compile the code**:
     ```bash
-    gcc -o min_finder min_finder.c -lm
+    gcc -o project project.c -lm
     ```
 
 3. **Run the program**:
     ```bash
-    ./min_finder
+    ./project
     ```
 
 4. **Review the results**: The program outputs the minimum value and execution times for each method.
 
 ## File Structure
 
-- `min_finder.c`: Source file implementing the methods to find the minimum value.
+- `project.c`: Source file implementing the methods to find the minimum value.
 - `README.md`: Documentation about the project.
 
 ## License
@@ -71,25 +71,25 @@ Bu proje, bir dizide minimum değeri bulmak için farklı yöntemlerin performan
 
 1. **Proje dosyalarını klonlayın**:
     ```bash
-    git clone https://github.com/kullaniciadi/proje-adi.git
-    cd proje-adi
+    git clone https://github.com/FihriSina/Range-Minimum-Queries-RMQ-.git
+    cd Range-Minimum-Queries-RMQ-
     ```
 
 2. **Kodu derleyin**:
     ```bash
-    gcc -o min_finder min_finder.c -lm
+    gcc -o project project.c -lm
     ```
 
 3. **Programı çalıştırın**:
     ```bash
-    ./min_finder
+    ./project
     ```
 
 4. **Sonuçları inceleyin**: Her yöntem için minimum değerin yanı sıra çalışma süreleri çıktıda görüntülenecektir.
 
 ## Dosya Yapısı
 
-- `min_finder.c`: Minimum değeri bulmak için yöntemlerin uygulandığı ana kaynak dosyası.
+- `project.c`: Minimum değeri bulmak için yöntemlerin uygulandığı ana kaynak dosyası.
 - `README.md`: Proje hakkında bilgi.
 
 ## Lisans
