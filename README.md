@@ -1,6 +1,6 @@
 # Range-Minimum-Queries-RMQ-
 Range Minimum Queries (RMQ) for Algorithms and Experimental Analysis
----English Version
+
 
 # Comparison of Minimum Value Finding Methods
 
@@ -50,7 +50,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 You can save this as **README.md** and include it in your GitHub repository.
 
----Türkçe Versiyonu
+
 
 # Minimum Değer Bulma Yöntemlerinin Karşılaştırması
 
